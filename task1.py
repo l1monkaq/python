@@ -17,6 +17,4 @@ def analyze_string(s):
 text = input("Enter English text: ")
 result = analyze_string(text)
 
-print("Vowels:", result[0])
-print("Number of vowels:", result[1])
-print("Consonants:", result[2])
+print(f"{result[0]},{result[1]},{result[2]}")

@@ -1,0 +1,2 @@
+[2025-06-09 20:16:22] Application started
+[2025-06-09 20:16:22] Something happened
